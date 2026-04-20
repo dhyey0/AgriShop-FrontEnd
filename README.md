@@ -47,3 +47,6 @@ AgriShop is a web application where **farmers** can lease their crops for biddin
    npm run dev
    ```
 
+<img width="1468" height="910" alt="Screenshot 2025-03-24 at 12 34 55 PM" src="https://github.com/user-attachments/assets/7282f781-9206-4b8e-9915-8af9e910be2a" />
+<img width="1468" height="910" alt="Screenshot 2025-03-24 at 12 34 55 PM" src="https://github.com/user-attachments/assets/162fbe8e-71ea-4d15-b6cc-42d9b3976e3d" />
+
